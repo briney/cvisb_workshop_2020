@@ -1,7 +1,6 @@
 abstar
-biopython
-celery
-nwalign3
-pymongo
-pytest
-scikit-bio
+scanpy
+pandas
+numpy
+matplotlib
+seaborn
