@@ -1,0 +1,7 @@
+abstar
+biopython
+celery
+nwalign3
+pymongo
+pytest
+scikit-bio
