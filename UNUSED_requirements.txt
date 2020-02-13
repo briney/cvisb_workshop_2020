@@ -1,6 +1,0 @@
-abstar
-scanpy
-pandas
-numpy
-matplotlib
-seaborn
