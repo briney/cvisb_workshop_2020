@@ -1,1 +1,1 @@
-# cvisb_workshop_2020
+# Session 2a: B Cell Repertoire Sequecncing
