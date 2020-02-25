@@ -3,10 +3,6 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - jupyterlab=1.0
-  - nodejs=11
-  - nbconvert=5.5
-  - python=3.7
   - numpy
   - pip
   - matplotlib
