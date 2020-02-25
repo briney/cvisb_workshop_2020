@@ -1,0 +1,4 @@
+mkdir ~/tools
+cp /usr/bin/cd-hit ~/tools/cdhit
+echo "export PATH=~/tools/:$PATH" >> ~/.bash_profile
+jupyter lab build
