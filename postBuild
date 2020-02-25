@@ -1,4 +1,7 @@
 mkdir ~/tools
 cp /usr/bin/cd-hit ~/tools/cdhit
 echo "export PATH=~/tools/:$PATH" >> ~/.bash_profile
-jupyter lab build
+jupyter nbextension install --py jupyter_offlinenotebook --sys-prefix
+jupyter nbextension enable --py jupyter_offlinenotebook --sys-prefix
+jupyter serverextension install --py jupyter_offlinenotebook --sys-prefix
+jupyter serverextension enable --py jupyter_offlinenotebook --sys-prefix
