@@ -12,3 +12,4 @@ dependencies:
   - pip:
     - abstar
     - scanpy
+    - jupyter-offlinenotebook
